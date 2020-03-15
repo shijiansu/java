@@ -9,6 +9,10 @@
 
 --------------------------------------------------------------------------------
 
+# Execute all tests in project / sub-projects
+
+`/bin/bash run-project-test.sh`
+
 # Setup Maven wrapper
 
 - https://github.com/takari/maven-wrapper
