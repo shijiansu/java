@@ -13,6 +13,10 @@
 
 `/bin/bash run-repo-test.sh`
 
+# Java development environment
+
+`sdk list java && sdk current java`
+
 # Setup Maven wrapper
 
 - https://github.com/takari/maven-wrapper
