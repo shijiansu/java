@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/language-xxx-blue)
-![](https://img.shields.io/badge/technology-xxx,%20xxx-blue)
-![](https://img.shields.io/badge/development%20year-20xx-orange)
+![](https://img.shields.io/badge/language-java-blue)
+![](https://img.shields.io/badge/technology-java5-blue)
+![](https://img.shields.io/badge/development%20year-2009-orange)
 ![](https://img.shields.io/badge/contributor-shijian%20su-purple)
 ![](https://img.shields.io/badge/license-MIT-lightgrey)
 
