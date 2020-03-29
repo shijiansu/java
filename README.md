@@ -1,7 +1,14 @@
 ![](https://img.shields.io/badge/language-xxx-blue)
 ![](https://img.shields.io/badge/technology-xxx,%20xxx-blue)
 ![](https://img.shields.io/badge/development%20year-20xx-orange)
+![](https://img.shields.io/badge/contributor-shijiansu-purple)
 ![](https://img.shields.io/badge/license-MIT-lightgrey)
+
+![](https://img.shields.io/github/languages/top/shijiansu/core-java-5-newfeatures)
+![](https://img.shields.io/github/languages/count/shijiansu/core-java-5-newfeatures)
+![](https://img.shields.io/github/languages/code-size/shijiansu/core-java-5-newfeatures)
+![](https://img.shields.io/github/repo-size/shijiansu/core-java-5-newfeatures)
+![](https://img.shields.io/github/last-commit/shijiansu/core-java-5-newfeatures?color=red)
 
 --------------------------------------------------------------------------------
 
