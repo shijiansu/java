@@ -1,0 +1,23 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="workcontactinfo" type="workcontactinfo" />
+    <xsd:complexType name="workcontactinfo">
+        <xsd:sequence>
+            <xsd:element ref="Location" maxOccurs="1" minOccurs="1" />
+            <xsd:element ref="Postal" maxOccurs="1" minOccurs="1" />
+            <xsd:element ref="tel" maxOccurs="1" minOccurs="1" />
+            <xsd:element ref="Appellation" maxOccurs="1" minOccurs="1" />
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:element name="tel" type="tel" />
+    <xsd:complexType name="tel">
+        <xsd:sequence>
+            <xsd:element ref="fix" maxOccurs="1" minOccurs="1" />
+            <xsd:element ref="mobile" maxOccurs="1" minOccurs="1" />
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:element name="Location" type="xsd:string" />
+    <xsd:element name="Postal" type="xsd:string" />
+    <xsd:element name="Appellation" type="xsd:string" />
+    <xsd:element name="fix" type="xsd:string" />
+    <xsd:element name="mobile" type="xsd:string" />
+</xsd:schema>
