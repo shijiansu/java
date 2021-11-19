@@ -1,14 +1,6 @@
-# java
-
 ![](https://img.shields.io/badge/language-java-blue)
 ![](https://img.shields.io/badge/technology-java7-blue)
 ![](https://img.shields.io/badge/development%20year-2019-orange)
-
-![](https://img.shields.io/github/languages/top/shijiansu/java)
-![](https://img.shields.io/github/languages/count/shijiansu/java)
-![](https://img.shields.io/github/languages/code-size/shijiansu/java)
-![](https://img.shields.io/github/repo-size/shijiansu/java)
-![](https://img.shields.io/github/last-commit/shijiansu/java?color=red)
 
 ## Outline
 

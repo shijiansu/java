@@ -1,15 +1,6 @@
 ![](https://img.shields.io/badge/language-java-blue)
 ![](https://img.shields.io/badge/technology-java8-blue)
 ![](https://img.shields.io/badge/development%20year-2018-orange)
-![](https://img.shields.io/badge/contributor-shijian%20su-purple)
-![](https://img.shields.io/badge/license-MIT-lightgrey)
-
-![](https://img.shields.io/github/languages/top/shijiansu/core-java-8-by-winterbe)
-![](https://img.shields.io/github/languages/count/shijiansu/core-java-8-by-winterbe)
-![](https://img.shields.io/github/languages/code-size/shijiansu/core-java-8-by-winterbe)
-![](https://img.shields.io/github/repo-size/shijiansu/core-java-8-by-winterbe)
-![](https://img.shields.io/github/last-commit/shijiansu/core-java-8-by-winterbe?color=red)
-![](https://github.com/shijiansu/core-java-8-by-winterbe/workflows/ci%20build/badge.svg)
 
 --------------------------------------------------------------------------------
 
